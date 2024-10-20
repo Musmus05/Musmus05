@@ -24,9 +24,9 @@ I'm a student and developer trying to learn different interesting languages. All
 #
 
 ### 📊 Stats
+<center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musmus05&show_icons=true&theme=radical)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Musmus05&theme=radical)
-
-
+</center>
 
 #
