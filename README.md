@@ -25,7 +25,7 @@ I'm a student and developer trying to learn different interesting languages. All
 
 ### 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musmus05&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musmus05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Musmus05)
 
 
 
