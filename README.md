@@ -22,3 +22,11 @@ I'm a student and developer trying to learn different interesting languages. All
 <br />
 
 #
+
+### 📊 Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musmus05&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+#
