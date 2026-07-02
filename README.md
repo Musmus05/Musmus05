@@ -114,34 +114,124 @@ engineer:
 
 ## ─── Featured Projects
 
+<details>
+<summary><b>🚀 [Project Name] — [One-line description]</b></summary>
+<br/>
+
+*Replace this with a real project — short description of what it does and why you built it.*
+
+| Aspect | Details |
+|---|---|
+| **Stack** | [e.g. C++, PowerShell, SQLite] |
+| **Scale** | [e.g. number of users / requests / data processed] |
+| **Performance** | [e.g. response time, throughput] |
+| **Security** | [e.g. auth method, encryption, hardening steps] |
+| **Impact** | [e.g. problem solved, time saved, outcome] |
+| **Repository** | [github.com/Musmus05/your-repo](https://github.com/Musmus05) |
+
+*A short paragraph explaining your architecture decisions and what you learned building it.*
+
+</details>
+
+<details>
+<summary><b>🔐 [Project Name] — [One-line description]</b></summary>
+<br/>
+
+*Replace this with another real project — ideally something cybersecurity or network related to match your specialization goal.*
+
+| Aspect | Details |
+|---|---|
+| **Stack** | [e.g. Python, Kali Linux tooling] |
+| **Scale** | [details] |
+| **Performance** | [details] |
+| **Security** | [details] |
+| **Impact** | [details] |
+| **Repository** | [github.com/Musmus05/your-repo](https://github.com/Musmus05) |
+
+*A short paragraph explaining your architecture decisions and what you learned building it.*
+
+</details>
+
 <br/>
 
 ## ─── Experience
+
+**Apprentice Developer · Turboself**
+`Ongoing`
+
+Work-study apprenticeship as part of the CESI engineering program.
+
+- *[Add a bullet describing your main responsibilities]*
+- *[Add a bullet describing a system or feature you worked on]*
+- *[Add a bullet describing a measurable contribution or improvement]*
+
+`[Add relevant skill tags here]`
+
+<br/>
+
+**Computer Engineering Student · CESI**
+`3rd Year — FISA A3`
+
+Engineering cycle combining academic coursework with a work-study apprenticeship, with a growing focus on cybersecurity.
+
+- Building full projects end-to-end, from network architecture to final code
+- Developing skills across systems administration, scripting, and secure development
+- Actively specializing in Cybersecurity through coursework and self-directed learning
+
+`C` `C++` `C#` `PHP` `PowerShell` `Python`
 
 <br/>
 
 ## ─── Achievements
 
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| *[Add achievement]* | *[Add details]* |
+| *[Add achievement]* | *[Add details]* |
+
+</div>
+
 <br/>
 
 ## ─── Certifications
 
+<div align="center">
+
+*Add your certification badges here, grouped by provider — for example:*
+
+**[Provider Name]**
+<br/>
+*[Add certification badge]*
+
+</div>
+
 <br/>
 
 ## ─── Coding Profiles
-<br/>
 
+<div align="center">
+
+*Add your coding profile badges here once handles are set up — for example:*
+
+<img src="https://img.shields.io/badge/LeetCode-Add%20Your%20Handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-Add%20Your%20Handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+</div>
+
+<br/>
 
 ## ─── GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Musmus05&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=b388ff&icon_color=b388ff&text_color=e0aaff&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Musmus05&theme=radical&hide_border=true&background=0d0221&stroke=b388ff&ring=b388ff&fire=b388ff&currStreakLabel=e0aaff" width="49%"/>
+<img alt="Musmus05's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Musmus05&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=b388ff&icon_color=b388ff&text_color=e0aaff&count_private=true&cache_seconds=86400" width="49%"/>
+<img alt="Musmus05's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Musmus05&theme=radical&hide_border=true&background=0d0221&stroke=b388ff&ring=b388ff&fire=b388ff&currStreakLabel=e0aaff" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musmus05&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=b388ff&text_color=e0aaff" width="49%"/>
+<img alt="Musmus05's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musmus05&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=b388ff&text_color=e0aaff&cache_seconds=86400" width="49%"/>
 
 </div>
 
@@ -151,7 +241,7 @@ engineer:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Musmus05&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+<img alt="Musmus05's GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Musmus05&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&cache_seconds=86400"/>
 
 </div>
 
