@@ -264,9 +264,6 @@ Engineering cycle combining academic coursework with a work-study apprenticeship
 <img src="https://raw.githubusercontent.com/Musmus05/Musmus05/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
-*Requires setting up the [platane/snk](https://github.com/Platane/snk) GitHub Action on your profile repo to generate this file.*
-
 <br/>
 
 ## ─── Current Focus
